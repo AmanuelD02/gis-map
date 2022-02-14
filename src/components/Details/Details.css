@@ -1,0 +1,7 @@
+.Details-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  grid-auto-rows: 170px;
+  gap: 1rem;
+  justify-items: center;
+}
